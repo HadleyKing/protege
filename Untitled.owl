@@ -1,7 +1,0 @@
-[ {
-  "@id" : "http://www.semanticweb.org/hadley/ontologies/2019/2/untitled-ontology-20",
-  "@type" : [ "http://www.w3.org/2002/07/owl#Ontology" ]
-}, {
-  "@id" : "http://www.semanticweb.org/hadley/ontologies/2019/2/untitled-ontology-20#EDRN_Glycoproteins",
-  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ]
-} ]
